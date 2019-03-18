@@ -1,0 +1,10 @@
+* d3.js
+** summary
+*d3* 相对与一般的图形库，它的能力更多的表现在对元素（dom，svg，canvas）以及对数据的处理上。
+*d3-selection* 提供了对数据和元素的各种选择，更新，移除操作。
+它的更新 模式（update pattern） 很好的展示了数据驱动所带来的便捷的操作以及易于实现的动画。
+
+
+** selection
+
+** tree
